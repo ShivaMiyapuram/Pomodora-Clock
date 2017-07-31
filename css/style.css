@@ -1,0 +1,22 @@
+body{
+  background-image: url("https://ae01.alicdn.com/kf/HTB1y3GqQpXXXXaUXVXXq6xXFXXXN.jpg_220x220.jpg");
+  background-repeat: repeat-y;
+  background: rgba(80, 80, 250, 0.0);
+  
+}
+
+
+button{
+  background-color: rgba(22, 22, 22, 0.9);
+  font-family: 'Sofia';
+  color: white;
+}
+h3{
+  font-family: 'Sofia';font-size: 22px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h4{
+  text-shadow: 1px 1px 1px #000000;
+}
+
